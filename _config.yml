@@ -1,7 +1,8 @@
 name: dentmaged
 
-jumbo.title: Welcome!
-jumbo.description: Welcome to my website! Here you will be able to see my projects, blog and more!
+jumbo:
+  title: Welcome!
+  description: Welcome to my website! Here you will be able to see my projects, blog and more!
 
 baseurl: ""
 
