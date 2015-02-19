@@ -4,9 +4,13 @@ jumbo:
   title: Welcome!
   description: Welcome to my website! Here you will be able to see my projects, blog and more!
 
-baseurl: http://dentmaged.github.io
+baseurl: ""
+url: http://dentmaged.github.io
 
 github: http://github.com/dentmaged/dentmaged.github.io
+
+
+permalink: /posts/:title.html
 
 version: v1.0.0
 
