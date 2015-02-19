@@ -5,7 +5,7 @@ jumbo.description: Welcome to my website! Here you will be able to see my projec
 
 baseurl: ""
 
-
+github: http://github.com/dentmaged/dentmaged.github.io
 
 version: v1.0.0
 
